@@ -1,0 +1,18 @@
+
+.business-header {
+    margin-top: -30px;
+    height: 400px;
+    background: url('images/pul fiction image.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: 0px 5px;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline{
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
